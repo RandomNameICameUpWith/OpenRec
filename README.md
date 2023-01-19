@@ -1,17 +1,8 @@
-# Welcome to OpenRec!
----
-OpenRec is a RecRoom server software made by recroom2016!
+#Welcome to OpenRec Reborn!
+OpenRec is an old rec room server, however was discontinued for opentag and eventually openlabs.
+Gonna make updates to OpenRec under here.
+I am not associated with OpenRec or Openlabs.
+Original created by RecRoom 2016.
 
-### Branches
- - Master / main
- - Nightly
-
-The master branch is the public branch where all the latest updates are published.
-The nightly branch is where all the experimental updates that are needed to be tested before release are.
-
----
-
-### Getting in contact with the community
-
-If you are new to this we recommend you joining our Discord!
-Link: https://discord.com/invite/daC8QUhnFP
+###Join the discord!
+Coming soon
