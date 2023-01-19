@@ -5,7 +5,6 @@ Patch Notes:
 -Fixed NameServer fail on all builds.
 -Changed around September 2018 menu.
 -Working towards friending?
--Added Bios.
 -Changed the setup menu.
 -Added consumables to September 2018.
 
