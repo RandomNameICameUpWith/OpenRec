@@ -1,1 +1,19 @@
-
+  "FeaturedPlayer": {
+    "Id": 1,
+    "TitleOverride": "me when a player is featured",
+    "UrlOverride": "https://discord.gg/G7Wf7Ms5qh"
+  },
+  "FeaturedRoomGroup": {
+    "Name": "Featured Rooms (no lol)",
+    "FeaturedRooms": [
+    ]
+  },
+  "CurrentAnnouncement": {
+    "Message": "Openrec 2019 susbus",
+    "MoreInfoUrl": "https://discord.gg/G7Wf7Ms5qh"
+  },
+  "InstagramImages": [
+  ],
+  "Videos": [
+  ],
+}
